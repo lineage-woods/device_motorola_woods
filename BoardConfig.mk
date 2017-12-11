@@ -26,6 +26,9 @@ TARGET_OTA_ASSERT_DEVICE := Moto_E4,Moto E4,moto_e4,e4,woods,woods_f
 TARGET_KERNEL_SOURCE := kernel/motorola/woods
 TARGET_KERNEL_CONFIG := woods_defconfig
 
+# bluetooth
+BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
+
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
