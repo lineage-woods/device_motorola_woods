@@ -30,7 +30,7 @@ TARGET_KERNEL_CONFIG := woods_defconfig
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
 
 # Graphics
-BOARD_EGL_CFG := /vendor/motorola/woods/vendor/lib/egl/egl.cfg
+BOARD_EGL_CFG := /vendor/motorola/woods/proprietary/vendor/lib/egl/egl.cfg
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
