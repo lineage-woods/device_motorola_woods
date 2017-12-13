@@ -23,7 +23,7 @@ DEVICE_PATH := device/motorola/woods
 TARGET_OTA_ASSERT_DEVICE := Moto_E4,Moto E4,moto_e4,e4,woods,woods_f
 
 # Kernel
-TARGET_KERNEL_SOURCE := kernel/motorola/woods
+TARGET_KERNEL_SOURCE := kernel/motorola/mt6737
 TARGET_KERNEL_CONFIG := woods_defconfig
 
 # bluetooth
