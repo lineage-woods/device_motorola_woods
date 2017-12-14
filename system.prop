@@ -1,0 +1,7 @@
+#
+# system.prop for woods
+#
+
+# Density
+ro.sf.lcd_density=320
+persist.sys.lcd_density=320
