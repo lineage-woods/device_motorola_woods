@@ -1,7 +1,12 @@
-Device Tree for Moto E4
-=======================
+Copyright (C) 2018 - The LineageOS Project
 
-The Motorola E4 (codenamed _"woods"_) is a mid-range smartphone from Motorola, a Lenovo company
+Device configuration for Motorola Moto E4 ("woods")
+===================================================
+
+The Moto E4 Mediatek (codenamed _"woods"_) is a mid-range smartphone from Motorola.
+It was announced on June 2017.
+
+## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
@@ -16,4 +21,6 @@ Battery | Li-Pol 2800mAh battery
 Display | 720 x 1280 pixels, 5.0 inches
 Camera  | Main 8MP / Front 5MP, autofocus, LED flash
 
-![Motorola E4](http://www.digitik.ru/upload/iblock/dd7/dd77003d77e62a8d7b9eb0d840bd3e77.jpg "Motorola E4")
+## Device picture
+
+![Moto E4](https://www.motorola.com/sites/default/files/library/storage/products/smartphones/moto-e4-NA-1000.png "Moto E4")
